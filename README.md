@@ -8,5 +8,5 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 
 ## Mockups
 
-- [Free Mockups ](https://www.ls.graphics/free-mockups) 
+- [Free high quality Mockups ](https://www.ls.graphics/free-mockups) 
 
