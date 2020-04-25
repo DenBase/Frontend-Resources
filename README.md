@@ -3,7 +3,7 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 
 
 ## HTML
-- [Free high-quality design resources.](https://freebiesbug.com/code-stuff/)
+- [Free Resources for Developers](https://freebiesbug.com/code-stuff/)
 
 
 ## UX/UI
