@@ -1,6 +1,11 @@
 # Frontend-Resources
 My favorites list of free tools &amp; resources for designers and front-end developers
 
+
+## Free templates for Developers
+- [Free high-quality design resources.](https://freebiesbug.com/code-stuff/)
+
+
 ## UX/UI
 
 - [Free AdobeXD/Figma/Ps Templates](https://freebiesupply.com/)
