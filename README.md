@@ -15,3 +15,6 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 
 - [Free high quality Mockups ](https://www.ls.graphics/free-mockups) 
 
+
+## Color 
+- [Color Palette Generator](https://colors.muz.li/) 
