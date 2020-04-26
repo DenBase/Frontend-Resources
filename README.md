@@ -11,12 +11,14 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 - [Free AdobeXD/Figma/Ps Templates](https://freebiesupply.com/) (freebiesupply.com)
 - [Free web and mobile resources](https://uibundle.com/) (uibundle.com)
 
+## Color 
+- [Muzli Colors Palette Generator](https://colors.muz.li/) (colors.muz.li)
+- [SHADE GENERATOR](https://www.shadegenerator.com/) (shadegenerator.com)
+
 ## Mockups
 
 - [Free high quality Mockups ](https://www.ls.graphics/free-mockups) (ls.graphics)
 
 
-## Color 
-- [Muzli Colors Palette Generator](https://colors.muz.li/) (colors.muz.li)
-- [SHADE GENERATOR](https://www.shadegenerator.com/) (shadegenerator.com)
+
 
