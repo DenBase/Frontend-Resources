@@ -17,4 +17,4 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 
 
 ## Color 
-- [Color Palette Generator](https://colors.muz.li/) 
+- [Muzli Colors Palette Generator](https://colors.muz.li/) (colors.muz.li)
