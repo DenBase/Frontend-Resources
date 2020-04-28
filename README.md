@@ -2,8 +2,11 @@
 My favorites list of free tools &amp; resources for designers and front-end developers
 
 
-## HTML
-- [Free Resources for Developers](https://freebiesbug.com/code-stuff/) (freebiesbug.com)
+## FRAMEWORKS, TEMPLATES, CODE PACKS
+- [Foundation - An advanced responsive framework that’s one of the most popular out there](https://get.foundation/) (get.foundation)
+- [HTML5 Boilerplate - The web’s most popular front-end template](https://html5boilerplate.com/) (html5boilerplate.com)
+- [HTML5 UP - Free fully responsive HTML5 template.](https://html5boilerplate.com/) (html5boilerplate.com)
+- [Free Resources for Developers](https://html5up.net/) (html5up.net)
 
 
 ## UX/UI
@@ -18,7 +21,3 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 ## Mockups
 
 - [Free high quality Mockups ](https://www.ls.graphics/free-mockups) (ls.graphics)
-
-
-
-
