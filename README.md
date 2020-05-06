@@ -20,13 +20,15 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 
 
 ## UX/UI
-
 - [Free AdobeXD/Figma/Ps Templates](https://freebiesupply.com/) (freebiesupply.com)
 - [Free web and mobile resources](https://uibundle.com/) (uibundle.com)
 
 ## Color 
 - [Muzli Colors Palette Generator](https://colors.muz.li/) (colors.muz.li)
 - [SHADE GENERATOR](https://www.shadegenerator.com/) (shadegenerator.com)
+- [Adobe Color](https://color.adobe.com/ru/explore/?filter=most-popular&time=month) (color.adobe.com)
+- [Coolors.co](https://coolors.co/) (coolors.co)
+
 
 ## Mockups
 
