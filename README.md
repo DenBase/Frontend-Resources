@@ -28,6 +28,8 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 - [SHADE GENERATOR](https://www.shadegenerator.com/) (shadegenerator.com)
 - [Adobe Color](https://color.adobe.com/ru/explore/?filter=most-popular&time=month) (color.adobe.com)
 - [Coolors.co](https://coolors.co/) (coolors.co)
+- [Paletton](https://paletton.com/) (paletton.com)
+
 
 
 ## Mockups
