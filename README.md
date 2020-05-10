@@ -35,3 +35,8 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 ## Mockups
 
 - [Free high quality Mockups ](https://www.ls.graphics/free-mockups) (ls.graphics)
+
+
+## Free WordPress themes
+
+- [10 of the Very Best Free WordPress Themes in 2020 ](https://justfreethemes.com/best-free-wordpress-themes/) (ustfreethemes.com)
