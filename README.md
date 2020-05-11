@@ -2,6 +2,9 @@
 My favorites list of free tools &amp; resources for designers and front-end developers
 
 
+## Inspiration resource
+- [httpster.net](https://httpster.net/2020/apr/) (httpster.net)
+
 ## FRAMEWORKS, TEMPLATES, CODE PACKS
 - [Foundation - An advanced responsive framework that’s one of the most popular out there](https://get.foundation/) (get.foundation)
 - [HTML5 Boilerplate - The web’s most popular front-end template](https://html5boilerplate.com/) (html5boilerplate.com)
