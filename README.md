@@ -48,4 +48,4 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 ## Free stock photos for websites and commercial use
 - [Download free, high-resolution images](https://burst.shopify.com/) (burst.shopify.com)
 - [Freephotos](https://freephotos.cc/ru) (freephotos.cc)
-
+- [Pexels](https://www.pexels.com/ru-ru/) (pexels.com)
