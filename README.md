@@ -43,3 +43,7 @@ My favorites list of free tools &amp; resources for designers and front-end deve
 ## Free WordPress themes
 
 - [10 of the Very Best Free WordPress Themes in 2020 ](https://justfreethemes.com/best-free-wordpress-themes/) (ustfreethemes.com)
+
+
+## Free stock photos for websites and commercial use
+- [Download free, high-resolution images](https://burst.shopify.com/) (burst.shopify.com)
