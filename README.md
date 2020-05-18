@@ -1,9 +1,12 @@
 # Frontend-Resources
 My favorites list of free tools &amp; resources for designers and front-end developers
 
+## Design Resources
+- [httpster.net](https://httpster.net/2020/apr/) (httpster.net)
+
 
 ## Inspiration resource
-- [httpster.net](https://httpster.net/2020/apr/) (httpster.net)
+- [Designresourc.es](https://designresourc.es/) (designresourc.es)
 
 ## FRAMEWORKS, TEMPLATES, CODE PACKS
 - [Foundation - An advanced responsive framework that’s one of the most popular out there](https://get.foundation/) (get.foundation)
